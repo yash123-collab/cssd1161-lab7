@@ -8,5 +8,9 @@ git status - Shows changed files.
 
 git log - Displays the past  saves.
 
+git push - Sends local edits online.
+
+git pull - Grabs online edits down.
+
 
 
