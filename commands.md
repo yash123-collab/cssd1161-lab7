@@ -12,5 +12,9 @@ git push - Sends local edits online.
 
 git pull - Grabs online edits down.
 
+git push - Sends local edits online.
+
+git pull - Grabs online edits down.
+
 
 
